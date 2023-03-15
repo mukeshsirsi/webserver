@@ -4,4 +4,4 @@ sudo yum install httpd.x86_64
 sudo systemctl start httpd
 sudo systemctl enable htttpd
 sudo systemctl service httpd
-echo"Hello"
+echo"Hello how are you"
