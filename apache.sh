@@ -5,3 +5,4 @@ sudo systemctl start httpd
 sudo systemctl enable htttpd
 sudo systemctl service httpd
 echo"Hello how are you good"
+echo"What is going on"
